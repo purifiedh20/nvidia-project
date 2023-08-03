@@ -34,4 +34,4 @@ This model was created with the Nvidia Jetson Nano and the Jetson-Inference libr
 18. After the command is finished, open the new image output with VSCode or similar software.
 19. All done and ready to use!
 
-[View a video explanation here]((https://www.youtube.com/watch?v=sDgWR30bIws)https://www.youtube.com/watch?v=sDgWR30bIws)
+Video explanation: https://www.youtube.com/watch?v=sDgWR30bIws)https://www.youtube.com/watch?v=sDgWR30bIws
