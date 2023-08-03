@@ -1,6 +1,6 @@
 # Nvidia-Project
 
-This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way. This project can work with a different dataset to learn different words.
+This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way. This project can be used as fun flashcards, a study buddy, and a guessing game. This project can work with a different dataset to learn different words. 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
