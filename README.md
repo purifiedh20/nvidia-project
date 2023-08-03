@@ -1,4 +1,4 @@
-# nvidia-project
+# Nvidia-Project
 
 This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way.
 
