@@ -1,12 +1,11 @@
 # Nvidia-Project
 
-This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way.
-
+This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way. This project can work with a different dataset to learn different words.
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+This model was created with the Nvidia Jetson Nano and the Jetson-Inference library. The dataset used in this project was created by "Kritik Seth" and sourced from Kaggle.com. The dataset follows the 3-folder format: train, test, and val. The test folder holds about 10-20 images for each class and is used by the model for image processing. The train folder holds about 100-200 images for each class and is use by the training program, train.py, to train the model. The val class validates the training and in this case, contains the same images as the test folder. There are 36 different classes that the images are categorized into: apple, banana, beetroot, bell pepper, cabbage, capsicum, carrot, cauliflower, chilli pepper, corn, cucumber, eggplant, garlic, ginger, grapes, jalepeno, kiwi, lemon, lettuce, mango, onion, orange, paprika, pear, peas, pineapple, pomegranate, potato, raddish, soy beans, spinach, sweetcorn, sweetpotato, tomato, turnip, and watermelon. The pre-existing model uses train.py for training. ImageNet was used for the image classification.
 
 ## Running this project
 
