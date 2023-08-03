@@ -1,7 +1,6 @@
 # Nvidia-Project
 
 This project was designed to teach English learners the names of fruits and vegtables in a fun and memorable way. This project can be used as fun flashcards, a study buddy, and a guessing game. This project can work with a different dataset to learn different words. 
-![add image descrition here](direct image link here)
 
 ## The Algorithm
 
@@ -35,4 +34,4 @@ This model was created with the Nvidia Jetson Nano and the Jetson-Inference libr
 18. After the command is finished, open the new image output with VSCode or similar software.
 19. All done and ready to use!
 
-[View a video explanation here](video link)
+[View a video explanation here]((https://www.youtube.com/watch?v=sDgWR30bIws)https://www.youtube.com/watch?v=sDgWR30bIws)
