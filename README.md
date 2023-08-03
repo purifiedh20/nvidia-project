@@ -21,9 +21,8 @@ This model was created with the Nvidia Jetson Nano and the Jetson-Inference libr
 7. Wait for the training to finish - this could take awhile.
 8. After the training is finished, ensure that you are still in the docker container and in the jetson-inference/python/training/classification folder
 9. Run the onnx export script by typing python3 onnx_export.py --model-dir=models/[MODELNAME]
-  In order for the trained resnet model to run for testing, it needs to be converte to the ONNX   format.
-  ONNX is an open source model format tool
-10. In the jetson-inference/python/training/classification/models/[MODELNAME] folde, type ls to check that the new model called resnet[#].onnx is there. (that is your retained model)
+  In order for the trained resnet model to run, it needs to be converted to the ONNX format. ONNX is an open source model format tool
+10. In the jetson-inference/python/training/classification/models/[MODELNAME] folder, type ls to check that the new model called resnet[#].onnx is there. (That is your retained model)
     [#] can be 18, 50, 126... essentially the version of resnet thats being used. The higher the #, the more accurate the training will be.
 12. Exit the jetson-inference docket by pressing Cntrl + D (at the same time)
 13. On the nano, NOT THE DOCKER, ensure that you are in the jetson-inference/python/training/classification folder.
